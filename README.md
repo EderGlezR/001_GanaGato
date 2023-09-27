@@ -1,2 +1,2 @@
-# Prueba1
+# Sorteo gato
 Repositorio de prueba
